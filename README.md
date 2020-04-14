@@ -1,4 +1,4 @@
-# Honda Price Predictor
+# Used Car Price Predictor
 
 # This Project is still in progress
 
