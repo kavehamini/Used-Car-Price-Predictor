@@ -20,6 +20,12 @@ splinter and chromedriver.exe have been used for scraping. Python and its module
 
 
 
+
+
+
+
+
+
 ### Author
 
 This project has been inspired by many similar projects on GitHub.com and has been performed by Kaveh Amini (kvhmni@gmail.com).
