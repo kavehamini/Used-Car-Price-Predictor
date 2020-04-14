@@ -8,7 +8,7 @@ In this project the data including the make, model, model year and mileage of us
 
 ### The Data
 
-The data used in this project is scraped from Autotrader website https://www.autotrader.ca/.
+The data used in this project was scraped from Autotrader website https://www.autotrader.ca/.
 
 
 
