@@ -19,9 +19,7 @@ splinter and chromedriver.exe have been used for scraping. Python and its module
 ### Conclusion
 
 
-
-
-
+Linear regression, Decission Tree and Random Forest ML models were used to perform predictions on used car prices and lthough all three models had acceptable performace, Random Forest had better scores and lower standard deviation.
 
 
 
