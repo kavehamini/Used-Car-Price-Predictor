@@ -55,8 +55,7 @@ Probability plot of prices in the dataset afterapplying log trabsformation:
 For complete machine learning investigation and results please see the jupyter notebooks.
 Here only the plot illustrating the predicted values using linear regression versus the real values is shown:
 
-![](https://github.com/kavehamini/Used-Car-Price-Predictor/blob/master/14.png)
-<img src="https://github.com/kavehamini/Used-Car-Price-Predictor/blob/master/14.png">
+<img src="https://github.com/kavehamini/Used-Car-Price-Predictor/blob/master/14.png"/>
 
 
 ### Conclusion
