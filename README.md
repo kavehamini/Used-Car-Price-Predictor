@@ -25,6 +25,10 @@ The figure below illustrates the distribution of the numeric variables in the da
 
 Figure below illustrates the number of each car make (Car Type) in the dataset.
 <img src="https://github.com/kavehamini/Used-Car-Price-Predictor/blob/master/2.png">
+
+The number of each car make by year (model year) in the dataset has been depicted in the figure below.
+<img src="https://github.com/kavehamini/Used-Car-Price-Predictor/blob/master/3.png">
+
 ### Conclusion
 
 
