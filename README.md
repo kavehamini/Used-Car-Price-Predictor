@@ -33,7 +33,7 @@ The graph below shows the prices of each car make (car type) in the dataset.
 <img src="https://github.com/kavehamini/Used-Car-Price-Predictor/blob/master/4.png">
 
 PairPlots provide a better insight into the correlations between numerical features.
-img src="https://github.com/kavehamini/Used-Car-Price-Predictor/blob/master/6.png">
+<img src="https://github.com/kavehamini/Used-Car-Price-Predictor/blob/master/6.png">
 
 
 ### Conclusion
