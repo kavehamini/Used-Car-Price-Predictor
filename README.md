@@ -42,9 +42,13 @@ As it cane be oserved from the above plot some car makes are more expensive than
 
 #### Normalization
 
-Distribution of prices in the dataset before normalization:
+Probability plot of prices in the dataset before normalization:
 
 <img src="https://github.com/kavehamini/Used-Car-Price-Predictor/blob/master/12.png">
+
+Probability plot of prices in the dataset afterapplying log trabsformation:
+
+<img src="https://github.com/kavehamini/Used-Car-Price-Predictor/blob/master/13.png">
 
 ### Conclusion
 
