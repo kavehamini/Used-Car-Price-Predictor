@@ -40,9 +40,10 @@ In order to check the relationship between the price and the car type (make) we 
 <img src="https://github.com/kavehamini/Used-Car-Price-Predictor/blob/master/10.png">
 As it cane be oserved from the above plot some car makes are more expensive than the others.
 
+#### Normalization
 
-<img src="https://github.com/kavehamini/Used-Car-Price-Predictor/blob/master/11.png">
-
+Distribution of prices in the dataset before normalization:
+<img src="https://github.com/kavehamini/Used-Car-Price-Predictor/blob/master/12.png">
 
 ### Conclusion
 
