@@ -23,6 +23,9 @@ The figure below illustrates the distribution of the numeric variables in the da
 
 <img src="https://github.com/kavehamini/Used-Car-Price-Predictor/blob/master/1.png">
 
+Figure below illustrates the number of each car make (Car Type) in the dataset.
+
+<img src="https://github.com/kavehamini/Used-Car-Price-Predictor/blob/master/2.png">
 ### Conclusion
 
 
