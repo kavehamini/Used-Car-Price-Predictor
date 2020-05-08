@@ -34,6 +34,7 @@ The graph below shows the prices of each car make (car type) in the dataset.
 
 Plotting Price versus the Milage and also versus the Model Year shows the correlation between the numerical data. 
 <img src="https://github.com/kavehamini/Used-Car-Price-Predictor/blob/master/6.png">
+
 <img src="https://github.com/kavehamini/Used-Car-Price-Predictor/blob/master/7.png">
 
 
