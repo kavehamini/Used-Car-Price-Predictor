@@ -36,6 +36,11 @@ Plotting Price versus the Milage and also versus the Model Year shows the correl
 <img src="https://github.com/kavehamini/Used-Car-Price-Predictor/blob/master/6.png">
 <img src="https://github.com/kavehamini/Used-Car-Price-Predictor/blob/master/7.png">
 
+In order to check the relationship between the price and the car type (make) we will make a box plot.
+
+<img src="https://github.com/kavehamini/Used-Car-Price-Predictor/blob/master/9.png">
+
+
 
 ### Conclusion
 
