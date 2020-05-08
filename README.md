@@ -42,6 +42,8 @@ As it cane be oserved from the above plot some car makes are more expensive than
 
 
 <img src="https://github.com/kavehamini/Used-Car-Price-Predictor/blob/master/11.png">
+
+
 ### Conclusion
 
 
