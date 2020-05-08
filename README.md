@@ -32,9 +32,8 @@ The number of each car make by year (model year) in the dataset has been depicte
 The graph below shows the prices of each car make (car type) in the dataset.
 <img src="https://github.com/kavehamini/Used-Car-Price-Predictor/blob/master/4.png">
 
-Plotting Price versus the Milage and also versus the Model Year shows the correlation between the numerical data. 
-<img src="https://github.com/kavehamini/Used-Car-Price-Predictor/blob/master/6.png">
-<img src="https://github.com/kavehamini/Used-Car-Price-Predictor/blob/master/7.png">
+Plotting the paiplots will provide a better insight into the correlation between the numerical data. 
+<img src="https://github.com/kavehamini/Used-Car-Price-Predictor/blob/master/11.png">
 
 In order to check the relationship between the price and the car type (make) we will make a box plot.
 <img src="https://github.com/kavehamini/Used-Car-Price-Predictor/blob/master/10.png">
@@ -55,7 +54,7 @@ Probability plot of prices in the dataset afterapplying log trabsformation:
 For complete machine learning investigation and results please see the jupyter notebooks.
 Here only the plot illustrating the predicted values using linear regression versus the real values is shown:
 
-<img src="https://github.com/kavehamini/Used-Car-Price-Predictor/blob/master/15.png">
+<img src="https://github.com/kavehamini/Used-Car-Price-Predictor/blob/master/14.png">
 
 
 ### Conclusion
