@@ -56,7 +56,7 @@ For complete machine learning investigation and results please see the jupyter n
 Here only the plot illustrating the predicted values using linear regression versus the real values is shown:
 
 <p>
-<img src="https://github.com/kavehamini/Used-Car-Price-Predictor/blob/master/14.png" width=200, height=200>
+<img src="https://github.com/kavehamini/Used-Car-Price-Predictor/blob/master/14.png">
 </p>
 
 ### Conclusion
