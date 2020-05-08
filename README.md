@@ -41,7 +41,7 @@ In order to check the relationship between the price and the car type (make) we 
 As it cane be oserved from the above plot some car makes are more expensive than the others.
 
 
-
+<img src="https://github.com/kavehamini/Used-Car-Price-Predictor/blob/master/11.png">
 ### Conclusion
 
 
