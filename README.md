@@ -32,9 +32,10 @@ The number of each car make by year (model year) in the dataset has been depicte
 The graph below shows the prices of each car make (car type) in the dataset.
 <img src="https://github.com/kavehamini/Used-Car-Price-Predictor/blob/master/4.png">
 
-Plotting the paiplots will provide a better insight into the correlation between the numerical data. 
+Plotting the paiplots will provide a better insight into the correlation between the numerical data.
+<p align="center">
 <img src="https://github.com/kavehamini/Used-Car-Price-Predictor/blob/master/11.png">
-
+</p>
 In order to check the relationship between the price and the car type (make) we will make a box plot.
 <img src="https://github.com/kavehamini/Used-Car-Price-Predictor/blob/master/10.png">
 As it cane be oserved from the above plot some car makes are more expensive than the others.
