@@ -8,7 +8,7 @@ In this project the data including the make, model, model year and mileage of us
 
 ### The Data
 
-The data used in this project was scraped from Autotrader website https://www.autotrader.ca/.
+The data used in this project were scraped from Autotrader website https://www.autotrader.ca/.
 
 
 ### Tools Used
@@ -46,7 +46,7 @@ Probability plot of prices in the dataset before normalization:
 <p align="center">
 <img src="https://github.com/kavehamini/Used-Car-Price-Predictor/blob/master/12.png">
 </p>
-Probability plot of prices in the dataset afterapplying log trabsformation:
+Probability plot of prices in the dataset afterapplying log transformation:
 <p align="center">
 <img src="https://github.com/kavehamini/Used-Car-Price-Predictor/blob/master/13.png">
 </p>
