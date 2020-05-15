@@ -50,6 +50,7 @@ Probability plot of prices in the dataset afterapplying log transformation:
 <p align="center">
 <img src="https://github.com/kavehamini/Used-Car-Price-Predictor/blob/master/13.png">
 </p>
+
 #### Machine Learning
 
 For complete machine learning investigation and results please see the jupyter notebooks.
